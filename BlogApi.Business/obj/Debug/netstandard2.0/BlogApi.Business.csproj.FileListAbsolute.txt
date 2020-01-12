@@ -1,0 +1,8 @@
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\bin\Debug\netstandard2.0\BlogApi.Business.deps.json
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\bin\Debug\netstandard2.0\BlogApi.Business.dll
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\bin\Debug\netstandard2.0\BlogApi.Business.pdb
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\obj\Debug\netstandard2.0\BlogApi.Business.AssemblyInfoInputs.cache
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\obj\Debug\netstandard2.0\BlogApi.Business.AssemblyInfo.cs
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\obj\Debug\netstandard2.0\BlogApi.Business.dll
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\obj\Debug\netstandard2.0\BlogApi.Business.pdb
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Business\obj\Debug\netstandard2.0\BlogApi.Business.csprojAssemblyReference.cache
