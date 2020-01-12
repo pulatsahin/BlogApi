@@ -1,0 +1,8 @@
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\bin\Debug\netstandard2.0\BlogApi.Entities.deps.json
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\bin\Debug\netstandard2.0\BlogApi.Entities.dll
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\bin\Debug\netstandard2.0\BlogApi.Entities.pdb
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\obj\Debug\netstandard2.0\BlogApi.Entities.csprojAssemblyReference.cache
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\obj\Debug\netstandard2.0\BlogApi.Entities.AssemblyInfoInputs.cache
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\obj\Debug\netstandard2.0\BlogApi.Entities.AssemblyInfo.cs
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\obj\Debug\netstandard2.0\BlogApi.Entities.dll
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Entities\obj\Debug\netstandard2.0\BlogApi.Entities.pdb
