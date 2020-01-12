@@ -1,0 +1,7 @@
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\bin\Debug\netstandard2.0\BlogApi.Core.deps.json
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\bin\Debug\netstandard2.0\BlogApi.Core.dll
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\bin\Debug\netstandard2.0\BlogApi.Core.pdb
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\obj\Debug\netstandard2.0\BlogApi.Core.AssemblyInfoInputs.cache
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\obj\Debug\netstandard2.0\BlogApi.Core.AssemblyInfo.cs
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\obj\Debug\netstandard2.0\BlogApi.Core.dll
+D:\Projects\SahinPulat.BlogApi\SahinPulat.BlogApi\BlogApi.Core\obj\Debug\netstandard2.0\BlogApi.Core.pdb
